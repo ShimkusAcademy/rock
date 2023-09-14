@@ -29,7 +29,7 @@ Let's break it down:
 
 ### While loops
 
-https://www.youtube.com/watch?v=rRTjPnVooxE
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rRTjPnVooxE?si=H17BMbn0ruOpLkka" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Why It's Cool
 
