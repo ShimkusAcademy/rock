@@ -29,7 +29,11 @@ Let's break it down:
 
 ### While loops
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rRTjPnVooxE?si=H17BMbn0ruOpLkka" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/rRTjPnVooxE
+
+### If statements
+
+https://youtu.be/FvMPfrgGeKs
 
 ## Why It's Cool
 
