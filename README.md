@@ -27,6 +27,10 @@ Let's break it down:
 
 - **Using the Spell**: Just like how Harry has to say the magic words and wave his wand to use a spell, we have to use a function by calling it. For example, we might say `makeInvisibleCloak("green", "small")` to create a small green invisibility cloak.
 
+### While loops
+
+https://www.youtube.com/watch?v=rRTjPnVooxE
+
 ## Why It's Cool
 
 Functions make our code organized and easy to understand, just like spellbooks in Harry Potter help wizards remember all the cool spells they can use. We can use functions over and over again, just like wizards use their favorite spells whenever they need them.
