@@ -1,3 +1,6 @@
+![image](https://github.com/ShimkusAcademy/rock/assets/88108711/7f5d20e4-8531-4560-a18d-29973123f620)
+
+
 # Learning About Functions with Harry Potter Magic
 
 ### Coding Meme of the Day!
