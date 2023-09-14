@@ -1,5 +1,9 @@
 # Learning About Functions with Harry Potter Magic
 
+### Coding Meme of the Day!
+![image](https://github.com/ShimkusAcademy/rock/assets/88108711/dba35586-8c40-40eb-bdca-952b95181a11)
+
+
 ## What's a Function?
 
 Imagine you're in the magical world of Harry Potter. In this world, wizards and witches can do all sorts of amazing things with magic spells. Each spell is like a magical tool that helps them perform a specific task.
